@@ -2,3 +2,5 @@ theme: minima
 title: Nj Subedi – Just another technical founder
 author: Nj Subedi
 description: I am the founder of Yarsa Labs. I am a software engineer currently based in Pokhara.
+baseurl: "/blog"
+excerpt_separator: .
